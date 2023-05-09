@@ -1,0 +1,19 @@
+.calc{
+    width: 240px;
+    border: 1px solid grey;
+    padding: 20px;
+}
+#res{
+    padding: 10px;
+    background-color: lightblue;
+    text-align: right;
+    margin-bottom: 10px;
+    width: 90%;
+
+}
+button{
+    background: linear-gradient(white,lightblue);
+    width: 60px;
+    height: 40px;
+    margin: 1px;
+}
